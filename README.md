@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="left">Intro</h1>
+<p align="left">Hi 👋, I'm Gurbax Barhe, a software engineer interested in solving high-impact problems with big data and backend systems.</p>
 
-<!--
-**gurbaxbarhe/gurbaxbarhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 I am interested in understanding **blockchain, robotics, big data, and chess**
+- ⚡ **I am a Coffee and donut addict/connoisseur**
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Code</h1>
+
+- 🔭 I’m currently working on [G.L.I.D.E](https://github.com/gurbaxbarhe/G.L.I.D.E)
+
+- 🌱 I’m currently learning **Django, TensorFlow**
