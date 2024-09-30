@@ -11,4 +11,4 @@
 
 - I’m currently working on [G.L.I.D.E](https://github.com/gurbaxbarhe/G.L.I.D.E)
 
-- I’m currently learning **Django** and **TensorFlow**
+- I’m currently learning **TypeScript,** **Django,** and **TensorFlow**
