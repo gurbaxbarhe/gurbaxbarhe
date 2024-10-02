@@ -2,7 +2,7 @@
 <p align="left">Hi, I'm Gurbax Barhe, a software engineer interested in solving high-impact problems with big data and backend systems.</p>
 
 - I am interested in understanding **blockchain, robotics, big data, and chess**
-- **I enjoy overpriced coffee at cool cafes and walking around cities**
+- **I enjoy overpriced coffee at cool cafes**
 
   
 
