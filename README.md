@@ -11,4 +11,4 @@
 
 <h1 align="left">Code</h1>
 
-- I’m currently learning **TypeScript and **Go
+- I’m currently learning **TypeScript** and **Go**
