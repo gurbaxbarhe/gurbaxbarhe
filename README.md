@@ -12,6 +12,6 @@ I previously worked at Newton Crypto, Tesla, and Nuclear Promise X, where I spec
 
 
 <h1 align="left"> Learning </h1>
-I am currently working with learning Golang
+I am currently learning Golang
 
   
