@@ -1,6 +1,6 @@
 <h1 align="left"> Hey 👋 </h1>
 <p align="left"> 
-I'm Gurbax Barhe, a software engineer focused on backend engineering and data systems. 
+I'm Gurbax Barhe, a software engineer focused on scaling data-intensive systems and building full-stack features.
   
 Away from my keyboard, I enjoy coffee at a local cafe, working out, and spending time with friends and family.
 
